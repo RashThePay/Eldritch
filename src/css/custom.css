@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+@import url('https://v1.fontapi.ir/css/Estedad');
+@import url('https://v1.fontapi.ir/css/Tanha');
+@import url('https://v1.fontapi.ir/css/Lalezar');
+
+:root {
+  font-family: Vazirmatn;
+  text-align: justify;
+  --gunmetal: #2b3240;
+  --dark-blue: #384d6b;
+  --indie-blue: color-mix(in srgb, darkslateblue, var(--dark-blue) 50%);
+  --vista-blue: #838dc9;
+  --tiffany-blue: #88c5c8;
+  --black: #242526;
+  --brown: #473c33;
+  --white: #f1edeb;
+  --paper: #dfd4c5;
+
+}
+
+[data-theme='light'] {
+  --primary-color: var(--indie-blue);
+  --primary-background: var(--white);
+  --secondary-color: var(--brown);
+  --secondary-background: var(--paper);
+}
+
+[data-theme='dark'] {
+  --primary-color: var(--tiffany-blue);
+  --primary-background: var(--gunmetal);
+  --secondary-color: var(--vista-blue);
+  --secondary-background: var(--dark-blue);
+
+}
+
+
+:root,
+* {
+  font-family: Vazirmatn;
+  --ifm-color-primary: var(--primary-color);
+  --ifm-background-color: var(--primary-background);
+  --ifm-link-color: var(--secondary-color);
+  --ifm-color-white: var(--white);
+  --ifm-navbar-link-color: var(--primary-color);
+  --ifm-navbar-background-color: var(--primary-background);
+  --ifm-table-background: color-mix(in srgb, var(--primary-background), var(--primary-color) 4%);
+  --ifm-table-stripe-background: color-mix(in srgb, var(--primary-background), var(--primary-color) 8%);
+  --ifm-table-head-background: var(--ifm-table-stripe-background);
+  --ifm-heading-vertical-rhythm-bottom: 0.25;
+  transition: background-color 0.2s linear;
+
+}
+
+html {
+  background-color: var(--primary-background);
+}
+
+.navbar__title {
+  font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+a {
+  font-family: Vazirmatn;
+  color: var(--primary-color)
+}
+
+blockquote {
+  background-color: var(--secondary-background);
+  padding:1em;
+  border-color: var(--primary-color);
+}
+
+
+table td,
+table th,
+table tr {
+  border-color: transparent !important;
+}
+
+.hero {
+  align-items: flex-end;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 !important;
+}
+
+.hero h1,
+.hero p {
+  color: var(--ifm-color-white)
+}
+
+.hero .container {
+  text-align: start;
+  margin: 0 !important;
+  width: 100%;
+  max-width: 100%;
+  padding: 2em 4em;
+  backdrop-filter: blur(10px);
+  background-color: #00000022;
+}
