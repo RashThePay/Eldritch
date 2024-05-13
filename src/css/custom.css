@@ -105,3 +105,8 @@ table tr {
   backdrop-filter: blur(10px);
   background-color: #00000022;
 }
+
+article img {
+  float: right;
+  display: inline;
+}

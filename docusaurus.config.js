@@ -6,7 +6,7 @@
 
 import { themes as prismThemes, themes } from 'prism-react-renderer';
 
-/** @type {import('@docusaurus/types').Config} */
+
 const config = {
   title: 'الدریچ',
   tagline: 'اولین مرجع فارسی بازی سیاهچال‌ها و اژدهایان (D&D)',
@@ -34,12 +34,10 @@ const config = {
     locales: ['fa'],
   },
   plugins: [
-
   ],
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: './sidebars.js',
@@ -51,6 +49,7 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+
       }),
     ],
   ],
@@ -65,7 +64,7 @@ const config = {
           srcDark: 'img/logo-light.svg'
         },
         items: [
-          
+
           {
             type: 'dropdown',
             label: 'کتاب‌ها',
