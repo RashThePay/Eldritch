@@ -6,11 +6,10 @@
 
 import { themes as prismThemes, themes } from 'prism-react-renderer';
 
-
 const config = {
   title: 'الدریچ',
-  tagline: 'اولین مرجع فارسی بازی سیاهچال‌ها و اژدهایان (D&D)',
-  favicon: 'img/eldritch.svg',
+  tagline: 'اولین مرجع فارسی بازی دیو‌ها و دخمه‌ها (D&D)',
+  favicon: 'img/fav.svg',
 
   // Set the production url of your site here
   url: 'https://eldritch.ir',
@@ -34,6 +33,7 @@ const config = {
     locales: ['fa'],
   },
   plugins: [
+   
   ],
   presets: [
     [
@@ -66,24 +66,11 @@ const config = {
         items: [
 
           {
-            type: 'dropdown',
-            label: 'کتاب‌ها',
-            position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'phbSidebar',
-                label: 'راهنمای بازیکنان'
-              },
-              // ... more items
-            ],
+            type: 'docSidebar',
+            sidebarId: 'booksSidebar',
+            label: 'کتاب‌ها'
           },
-          { to: '/tools', label: 'ابزار', position: 'left' },
-          {
-            href: 'https://github.com/RashThePay/eldritch',
-            label: 'گیت‌هاب',
-            position: 'right',
-          },
+          { to: '/tools', label: 'ابزارها', position: 'left' },
         ],
       },
       footer: {
@@ -135,35 +122,6 @@ const config = {
         theme: prismThemes.vsLight,
         darkTheme: prismThemes.vsDark,
       },
-
-      algolia: {
-        // The application ID provided by Algolia
-        appId: "XH61QTZAV3",
-
-        // Public API key: it is safe to commit it
-        apiKey: '198e5dc940283dcbec2f6ece45cf5cbb',
-
-        indexName: 'eldritch',
-
-        // Optional: see doc section below
-        contextualSearch: false,
-
-        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-
-        // Optional: Algolia search parameters
-        searchParameters: {},
-
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-
-        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
-        insights: false,
-
-        //... other Algolia params
-      }
-
     })
 }
 

@@ -9,8 +9,7 @@
 .cache-loader
 
 # Search utils
-algolia.json
-crawler.js
+scraper.js
 
 # Misc
 .DS_Store

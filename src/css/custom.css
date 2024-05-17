@@ -1,10 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
-@import url('https://v1.fontapi.ir/css/Estedad');
-@import url('https://v1.fontapi.ir/css/Tanha');
-@import url('https://v1.fontapi.ir/css/Lalezar');
-
+@import url('https://v1.fontapi.ir/css/Sahel');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+@font-face {
+  font-family: Maskh;
+  src: url(/static/img/MaskhUI/Maskh.woff2);
+}
+@font-face {
+  font-family: Andalus;
+  src: url(/static/img/Andalus.woff2);
+}
 :root {
-  font-family: Vazirmatn;
+  font-family: Sahel, serif;
   text-align: justify;
   --gunmetal: #2b3240;
   --dark-blue: #384d6b;
@@ -12,7 +17,7 @@
   --vista-blue: #838dc9;
   --tiffany-blue: #88c5c8;
   --black: #242526;
-  --brown: #473c33;
+  --brown: #6c5a4b;
   --white: #f1edeb;
   --paper: #dfd4c5;
 
@@ -23,6 +28,7 @@
   --primary-background: var(--white);
   --secondary-color: var(--brown);
   --secondary-background: var(--paper);
+  color: var(--gunmetal)
 }
 
 [data-theme='dark'] {
@@ -30,13 +36,14 @@
   --primary-background: var(--gunmetal);
   --secondary-color: var(--vista-blue);
   --secondary-background: var(--dark-blue);
+  color: var(--white)
 
 }
 
 
 :root,
 * {
-  font-family: Vazirmatn;
+  font-family: Sahel, serif;
   --ifm-color-primary: var(--primary-color);
   --ifm-background-color: var(--primary-background);
   --ifm-link-color: var(--secondary-color);
@@ -48,6 +55,7 @@
   --ifm-table-head-background: var(--ifm-table-stripe-background);
   --ifm-heading-vertical-rhythm-bottom: 0.25;
   transition: background-color 0.2s linear;
+  
 
 }
 
@@ -58,7 +66,33 @@ html {
 .navbar__title {
   font-weight: 700;
 }
+.navbar svg path {
+  fill: var(--primary-color);
+  stroke: var(--primary-color)
+}
 
+.navbar__logo {
+
+  display: none;
+}
+.navbar__title, .hero__title {
+  font-family: Maskh;
+  font-size: xx-large;
+  line-height: 1em;
+}
+
+.navbar__link {
+  font-family: Maskh;
+  padding-top: 10px;
+
+}
+
+.markdown {
+  font-family: Sahel;
+}
+aside a {
+  font-weight: 700;
+}
 h1,
 h2,
 h3,
@@ -66,9 +100,9 @@ h4,
 h5,
 h6,
 strong,
-a {
-  font-family: Vazirmatn;
-  color: var(--primary-color)
+b {
+  font-family: Sahel;
+  color: var(--primary-color);
 }
 
 blockquote {
@@ -82,6 +116,9 @@ table td,
 table th,
 table tr {
   border-color: transparent !important;
+}
+table {
+  display: contents;
 }
 
 .hero {
@@ -102,11 +139,122 @@ table tr {
   width: 100%;
   max-width: 100%;
   padding: 2em 4em;
+  font-size: 1dvh;
   backdrop-filter: blur(10px);
   background-color: #00000022;
 }
-
+.hero h1 {
+  font-size: 10dvh;
+}
+.hero p {
+  font-size: 3dvh
+}
 article img {
   float: right;
+  width: 20rem;
   display: inline;
+  margin-inline: 1rem;
+}
+[data-theme='dark'] article img {
+  background-color: var(--ifm-color-primary);
+}
+.searchbox {
+  min-width: 100px;
+  max-width: 250px;
+  margin-inline:10px;
+}
+.searchbox form {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  width: 100%;
+}
+.searchbox form input::placeholder{
+  color: color-mix(in srgb, var(--ifm-color-primary), transparent 50%)
+}
+.searchbox form input:hover::placeholder{
+  color: var(--primary-color)
+}
+.searchbox form span {
+  color: var(--primary-color);
+  display: inline-flex;
+  z-index: -1;
+  font-size: 10px;
+  margin-inline-start: 5px;
+}
+.searchbox svg{
+  width: 2em;
+}
+.searchbox svg path {
+  fill: var(--primary-color);
+  stroke: var(--primary-color);
+  stroke-width: 1;
+}
+.searchbox form input {
+  width: 100%;
+  max-width: 100%;
+  border: #0008 solid 1px;
+  border-radius: 10px;
+  border: none;
+  background-color: #ffffff66;
+  color: var(--ifm-primary-color);
+}
+.searchbox form input[value=''] {
+  background-color: transparent;
+}
+.searchbox input:focus, .searchbox:has(:focus) input{
+  background-color: white;
+  color: black;
+  outline: none;
+}
+.searchbox .hits {
+  padding: 0;
+  right:10px;
+  list-style: none;
+  display: none;
+  margin-top: 25px;
+  background-color: var(--secondary-background);
+  min-width: 100px;
+  max-width: 250px;
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  border-radius: 10px ;
+}
+
+.searchbox:has(:focus) .hits, .searchbox:has(:focus, :active) .hits {
+  display: block;
+}
+.searchbox .hits li {
+  padding: 0;
+  width: 100%;
+}
+.searchbox .hits a {
+  text-align: start;
+  box-sizing: border-box;
+  font-size: 0.8em;
+  border-radius: 5px;
+  padding: 5px;
+  display: block;
+  margin: 5px;
+  width: calc(100% - 10px);
+  height: fit-content;
+  overflow: hidden;
+  text-wrap: pretty;
+}
+.searchbox .hits a:hover, .searchbox .hits a:focus {
+  text-decoration: none;
+  background-color: #00000022;
+}
+#selected {
+  position:fixed;
+  background-color: var(--secondary-background);
+  color: var(--secondary-color);
+  font-family: Vollkorn, Sahel;
+  padding-inline: 0.5em;
+  border-radius: 10px;
+  font-size: small;
+  font-weight: 600;
+  text-wrap: nowrap;
 }
