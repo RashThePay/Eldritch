@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes, themes } from 'prism-react-renderer';
+import dict from './src/plugins/dict.js';
 
 const config = {
   title: 'الدریچ',
@@ -41,6 +42,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          remarkPlugins: [dict],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

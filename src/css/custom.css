@@ -104,6 +104,9 @@ b {
   font-family: Sahel;
   color: var(--primary-color);
 }
+b, strong {
+  font-weight: 600;
+}
 
 blockquote {
   background-color: var(--secondary-background);
@@ -247,14 +250,31 @@ article img {
   text-decoration: none;
   background-color: #00000022;
 }
-#selected {
-  position:fixed;
-  background-color: var(--secondary-background);
+article tag {
+  position: relative;
+  color: var(--primary-color);
+}
+article tag:hover {
   color: var(--secondary-color);
-  font-family: Vollkorn, Sahel;
-  padding-inline: 0.5em;
+  cursor: help;
+}
+article tag::after {
+  content: attr(name);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: absolute;
+  background-color: var(--secondary-background);
+  color:var(--secondary-color);
+  visibility: hidden;
+  opacity: 0;
   border-radius: 10px;
-  font-size: small;
-  font-weight: 600;
-  text-wrap: nowrap;
+  z-index: 1;
+  padding-inline: 0.5em;
+  top: 0;
+  left: 0%;
+}
+article tag:hover::after {
+ top: 1.5rem;
+ visibility: visible;
+ opacity: 1;
+ transition: all 0.1s 0.3s linear;
 }
