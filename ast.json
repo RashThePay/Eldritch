@@ -1,0 +1,3449 @@
+{
+    "type": "root",
+    "children": [
+        {
+            "type": "element",
+            "tagName": "h1",
+            "properties": {
+                "id": "خلق-شخصیت"
+            },
+            "children": [
+                {
+                    "type": "text",
+                    "value": "خلق شخصیت",
+                    "position": {
+                        "start": {
+                            "line": 4,
+                            "column": 3,
+                            "offset": 47
+                        },
+                        "end": {
+                            "line": 4,
+                            "column": 12,
+                            "offset": 56
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 4,
+                    "column": 1,
+                    "offset": 45
+                },
+                "end": {
+                    "line": 4,
+                    "column": 12,
+                    "offset": 56
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "p",
+            "properties": {},
+            "children": [
+                {
+                    "type": "text",
+                    "value": "اولین گام ما در بازی ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 1,
+                            "offset": 58
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 22,
+                            "offset": 79
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "دیوها و دخمه‌ها",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 42,
+                                            "offset": 41
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "Dungeons and Dragons",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 68,
+                                                    "offset": 67
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 88,
+                                                    "offset": 87
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 42,
+                                            "offset": 41
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 95,
+                                            "offset": 94
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 102,
+                                    "offset": 101
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 22,
+                            "offset": 79
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 39,
+                            "offset": 96
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "، تصور و خلق یک ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 39,
+                            "offset": 96
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 55,
+                            "offset": 112
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "شخصیت",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "character",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 58,
+                                                    "offset": 57
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 67,
+                                                    "offset": 66
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 74,
+                                            "offset": 73
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 81,
+                                    "offset": 80
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 55,
+                            "offset": 112
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 62,
+                            "offset": 119
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " است. شخصیت شما ترکیبی از ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 62,
+                            "offset": 119
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 88,
+                            "offset": 145
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "اعداد بازی",
+                            "position": {
+                                "start": {
+                                    "line": 5,
+                                    "column": 89,
+                                    "offset": 146
+                                },
+                                "end": {
+                                    "line": 5,
+                                    "column": 99,
+                                    "offset": 156
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 88,
+                            "offset": 145
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 100,
+                            "offset": 157
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "(# \"statistics\")، نقش‌آفرینی و تخیل شماست. شما یک ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 100,
+                            "offset": 157
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 150,
+                            "offset": 207
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "نژاد",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "race",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 61,
+                                                    "offset": 60
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 68,
+                                            "offset": 67
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 75,
+                                    "offset": 74
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 150,
+                            "offset": 207
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 156,
+                            "offset": 213
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " (مانند ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 156,
+                            "offset": 213
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 164,
+                            "offset": 221
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "انسان",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "human",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 58,
+                                                    "offset": 57
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 63,
+                                                    "offset": 62
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 70,
+                                            "offset": 69
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 77,
+                                    "offset": 76
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 164,
+                            "offset": 221
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 171,
+                            "offset": 228
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " یا ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 171,
+                            "offset": 228
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 175,
+                            "offset": 232
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "هافلینگ",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 34,
+                                            "offset": 33
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "halfling",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 60,
+                                                    "offset": 59
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 68,
+                                                    "offset": 67
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 34,
+                                            "offset": 33
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 75,
+                                            "offset": 74
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 82,
+                                    "offset": 81
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 175,
+                            "offset": 232
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 184,
+                            "offset": 241
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": ") و یک ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 184,
+                            "offset": 241
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 191,
+                            "offset": 248
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "کلاس",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "class",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 62,
+                                                    "offset": 61
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 69,
+                                            "offset": 68
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 76,
+                                    "offset": 75
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 191,
+                            "offset": 248
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 197,
+                            "offset": 254
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " (مانند ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 197,
+                            "offset": 254
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 205,
+                            "offset": 262
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "مبارز",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "fighter",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 58,
+                                                    "offset": 57
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 65,
+                                                    "offset": 64
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 72,
+                                            "offset": 71
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 79,
+                                    "offset": 78
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 205,
+                            "offset": 262
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 212,
+                            "offset": 269
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " یا ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 212,
+                            "offset": 269
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 216,
+                            "offset": 273
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "جادوگر",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 33,
+                                            "offset": 32
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "wizard",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 59,
+                                                    "offset": 58
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 65,
+                                                    "offset": 64
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 33,
+                                            "offset": 32
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 72,
+                                            "offset": 71
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 79,
+                                    "offset": 78
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 216,
+                            "offset": 273
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 224,
+                            "offset": 281
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": ") انتخاب می‌کنید. همچنین شخصیت خود را با ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 224,
+                            "offset": 281
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 265,
+                            "offset": 322
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "خصوصیات رفتاری",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 41,
+                                            "offset": 40
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "personality",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 67,
+                                                    "offset": 66
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 78,
+                                                    "offset": 77
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 41,
+                                            "offset": 40
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 85,
+                                            "offset": 84
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 92,
+                                    "offset": 91
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 265,
+                            "offset": 322
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 281,
+                            "offset": 338
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "، ظاهری و ",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 281,
+                            "offset": 338
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 291,
+                            "offset": 348
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "پیشینه‌ای",
+                            "position": {
+                                "start": {
+                                    "line": 5,
+                                    "column": 292,
+                                    "offset": 349
+                                },
+                                "end": {
+                                    "line": 5,
+                                    "column": 301,
+                                    "offset": 358
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 291,
+                            "offset": 348
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 302,
+                            "offset": 359
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " که خودتان خلق می‌کنید، زنده می‌کنید. وقتی شخصیت‌تان کامل شد، نماینده شما در بازی و آواتار شما در دنیای دیوها و دخمه‌هاست.",
+                    "position": {
+                        "start": {
+                            "line": 5,
+                            "column": 302,
+                            "offset": 359
+                        },
+                        "end": {
+                            "line": 5,
+                            "column": 424,
+                            "offset": 481
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 5,
+                    "column": 1,
+                    "offset": 58
+                },
+                "end": {
+                    "line": 5,
+                    "column": 424,
+                    "offset": 481
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "p",
+            "properties": {},
+            "children": [
+                {
+                    "type": "text",
+                    "value": "قبل از اینکه به مرحله ۱ بروید، درباره نوع ماجراجویی که می‌خواهید بازی کنید فکر کنید. ممکن است یک ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 1,
+                            "offset": 485
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 98,
+                            "offset": 582
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "مبارز",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "fighter",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 58,
+                                                    "offset": 57
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 65,
+                                                    "offset": 64
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 72,
+                                            "offset": 71
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 79,
+                                    "offset": 78
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 98,
+                            "offset": 582
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 105,
+                            "offset": 589
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " شجاع، یک ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 105,
+                            "offset": 589
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 115,
+                            "offset": 599
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "یاغی",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "rogue",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 62,
+                                                    "offset": 61
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 69,
+                                            "offset": 68
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 76,
+                                    "offset": 75
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 115,
+                            "offset": 599
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 121,
+                            "offset": 605
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " مخفی‌کار، یک ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 121,
+                            "offset": 605
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 135,
+                            "offset": 619
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "راهب",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "cleric",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 63,
+                                                    "offset": 62
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 70,
+                                            "offset": 69
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 77,
+                                    "offset": 76
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 135,
+                            "offset": 619
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 141,
+                            "offset": 625
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " پرشور یا یک ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 141,
+                            "offset": 625
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 154,
+                            "offset": 638
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "جادوگر",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 33,
+                                            "offset": 32
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "wizard",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 59,
+                                                    "offset": 58
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 65,
+                                                    "offset": 64
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 33,
+                                            "offset": 32
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 72,
+                                            "offset": 71
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 79,
+                                    "offset": 78
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 154,
+                            "offset": 638
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 162,
+                            "offset": 646
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " عجیب باشید. یا ممکن است بیشتر به یک شخصیت غیرمتعارف علاقه‌مند باشید، مانند یک ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 162,
+                            "offset": 646
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 241,
+                            "offset": 725
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "یاغی",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "rogue",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 62,
+                                                    "offset": 61
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 69,
+                                            "offset": 68
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 76,
+                                    "offset": 75
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 241,
+                            "offset": 725
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 247,
+                            "offset": 731
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " هیکلی که از نبرد تن به تن لذت می‌برد، یا یک تیرانداز ماهر که دشمنان را از راه دور هدف قرار می‌دهد. آیا از داستان‌های فانتزی با ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 247,
+                            "offset": 731
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 375,
+                            "offset": 859
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "دورف‌ها",
+                            "position": {
+                                "start": {
+                                    "line": 7,
+                                    "column": 376,
+                                    "offset": 860
+                                },
+                                "end": {
+                                    "line": 7,
+                                    "column": 383,
+                                    "offset": 867
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 375,
+                            "offset": 859
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 384,
+                            "offset": 868
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " یا ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 384,
+                            "offset": 868
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 388,
+                            "offset": 872
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "الف‌ها",
+                            "position": {
+                                "start": {
+                                    "line": 7,
+                                    "column": 389,
+                                    "offset": 873
+                                },
+                                "end": {
+                                    "line": 7,
+                                    "column": 395,
+                                    "offset": 879
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 388,
+                            "offset": 872
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 396,
+                            "offset": 880
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " لذت می‌برید؟ سعی کنید شخصیتی از یکی از این ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 396,
+                            "offset": 880
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 440,
+                            "offset": 924
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "نژادها",
+                            "position": {
+                                "start": {
+                                    "line": 7,
+                                    "column": 441,
+                                    "offset": 925
+                                },
+                                "end": {
+                                    "line": 7,
+                                    "column": 447,
+                                    "offset": 931
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 440,
+                            "offset": 924
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 448,
+                            "offset": 932
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " بسازید. آیا می‌خواهید شخصیت شما قوی‌ترین ماجراجو در گروه باشد؟ ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 448,
+                            "offset": 932
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 512,
+                            "offset": 996
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "کلاس‌هایی",
+                            "position": {
+                                "start": {
+                                    "line": 7,
+                                    "column": 513,
+                                    "offset": 997
+                                },
+                                "end": {
+                                    "line": 7,
+                                    "column": 522,
+                                    "offset": 1006
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 512,
+                            "offset": 996
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 523,
+                            "offset": 1007
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " مثل ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 523,
+                            "offset": 1007
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 528,
+                            "offset": 1012
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "وحشی",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "barbarian",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 66,
+                                                    "offset": 65
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 73,
+                                            "offset": 72
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 80,
+                                    "offset": 79
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 528,
+                            "offset": 1012
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 534,
+                            "offset": 1018
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " یا ",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 534,
+                            "offset": 1018
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 538,
+                            "offset": 1022
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "پهلوان",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 33,
+                                            "offset": 32
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "paladin",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 59,
+                                                    "offset": 58
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 66,
+                                                    "offset": 65
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 33,
+                                            "offset": 32
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 73,
+                                            "offset": 72
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 80,
+                                    "offset": 79
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 538,
+                            "offset": 1022
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 546,
+                            "offset": 1030
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " را در نظر بگیرید. اگر نمی‌دانید از کجا شروع کنید، تصاویر را جستجو و نگاه کنید تا ببینید چه چیزی نظرتان را جلب می‌کند.",
+                    "position": {
+                        "start": {
+                            "line": 7,
+                            "column": 546,
+                            "offset": 1030
+                        },
+                        "end": {
+                            "line": 7,
+                            "column": 664,
+                            "offset": 1148
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 7,
+                    "column": 1,
+                    "offset": 485
+                },
+                "end": {
+                    "line": 7,
+                    "column": 664,
+                    "offset": 1148
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "p",
+            "properties": {},
+            "children": [
+                {
+                    "type": "text",
+                    "value": "وقتی شخصیت خود را در ذهن خود ساختید، این مراحل را به ترتیب دنبال کنید و تصمیماتی بگیرید که ",
+                    "position": {
+                        "start": {
+                            "line": 9,
+                            "column": 1,
+                            "offset": 1152
+                        },
+                        "end": {
+                            "line": 9,
+                            "column": 92,
+                            "offset": 1243
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "شخصیت",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "character",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 58,
+                                                    "offset": 57
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 67,
+                                                    "offset": 66
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 32,
+                                            "offset": 31
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 74,
+                                            "offset": 73
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 81,
+                                    "offset": 80
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 9,
+                            "column": 92,
+                            "offset": 1243
+                        },
+                        "end": {
+                            "line": 9,
+                            "column": 99,
+                            "offset": 1250
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " مورد نظرتان را منعکس کند. مفهوم شخصیت شما ممکن است با هر انتخابی که می‌کنید تکامل یابد. مهم این است که با شخصیتی که برایش هیجان‌زده‌اید و دوست دارید بازی کنید، به سر میز بازی بیایید.",
+                    "position": {
+                        "start": {
+                            "line": 9,
+                            "column": 99,
+                            "offset": 1250
+                        },
+                        "end": {
+                            "line": 9,
+                            "column": 282,
+                            "offset": 1433
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 9,
+                    "column": 1,
+                    "offset": 1152
+                },
+                "end": {
+                    "line": 9,
+                    "column": 282,
+                    "offset": 1433
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "p",
+            "properties": {},
+            "children": [
+                {
+                    "type": "text",
+                    "value": "در سراسر این فصل، از اصطلاح ",
+                    "position": {
+                        "start": {
+                            "line": 11,
+                            "column": 1,
+                            "offset": 1437
+                        },
+                        "end": {
+                            "line": 11,
+                            "column": 29,
+                            "offset": 1465
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "strong",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "em",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-term"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "شخصیت‌نامه",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 27,
+                                                    "offset": 26
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 37,
+                                                    "offset": 36
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "type": "element",
+                                            "tagName": "span",
+                                            "properties": {
+                                                "className": [
+                                                    "jargon-info"
+                                                ]
+                                            },
+                                            "children": [
+                                                {
+                                                    "type": "text",
+                                                    "value": "character sheet",
+                                                    "position": {
+                                                        "start": {
+                                                            "line": 1,
+                                                            "column": 63,
+                                                            "offset": 62
+                                                        },
+                                                        "end": {
+                                                            "line": 1,
+                                                            "column": 78,
+                                                            "offset": 77
+                                                        }
+                                                    }
+                                                }
+                                            ],
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 37,
+                                                    "offset": 36
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 85,
+                                                    "offset": 84
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 1,
+                                            "offset": 0
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 92,
+                                            "offset": 91
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 11,
+                                    "column": 31,
+                                    "offset": 1467
+                                },
+                                "end": {
+                                    "line": 11,
+                                    "column": 43,
+                                    "offset": 1479
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 11,
+                            "column": 29,
+                            "offset": 1465
+                        },
+                        "end": {
+                            "line": 11,
+                            "column": 45,
+                            "offset": 1481
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " برای اشاره به هر چیزی که برای یادداشت شخصیت خود استفاده می‌کنید، چه یک ",
+                    "position": {
+                        "start": {
+                            "line": 11,
+                            "column": 45,
+                            "offset": 1481
+                        },
+                        "end": {
+                            "line": 11,
+                            "column": 117,
+                            "offset": 1553
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "شخصیت‌نامه",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 37,
+                                            "offset": 36
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "character sheet",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 63,
+                                                    "offset": 62
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 78,
+                                                    "offset": 77
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 37,
+                                            "offset": 36
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 85,
+                                            "offset": 84
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 92,
+                                    "offset": 91
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 11,
+                            "column": 117,
+                            "offset": 1553
+                        },
+                        "end": {
+                            "line": 11,
+                            "column": 129,
+                            "offset": 1565
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " رسمی (مانند شخصیت‌نامه انتهای این کتاب)، نوعی فایل دیجیتال یا یک برگه دفترچه یادداشت، استفاده می‌کنیم. تا زمانی که بدانید چه اطلاعاتی نیاز دارید و چگونه در طول بازی از آن استفاده کنید یک شخصیت‌نامه رسمی د.و.د. نقطه شروع خوبی است.",
+                    "position": {
+                        "start": {
+                            "line": 11,
+                            "column": 129,
+                            "offset": 1565
+                        },
+                        "end": {
+                            "line": 11,
+                            "column": 359,
+                            "offset": 1795
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 11,
+                    "column": 1,
+                    "offset": 1437
+                },
+                "end": {
+                    "line": 11,
+                    "column": 359,
+                    "offset": 1795
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "blockquote",
+            "properties": {},
+            "children": [
+                {
+                    "type": "text",
+                    "value": "\n"
+                },
+                {
+                    "type": "element",
+                    "tagName": "h3",
+                    "properties": {
+                        "id": "ساخت-سریع"
+                    },
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "ساخت سریع",
+                            "position": {
+                                "start": {
+                                    "line": 13,
+                                    "column": 7,
+                                    "offset": 1805
+                                },
+                                "end": {
+                                    "line": 13,
+                                    "column": 16,
+                                    "offset": 1814
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 13,
+                            "column": 3,
+                            "offset": 1801
+                        },
+                        "end": {
+                            "line": 13,
+                            "column": 18,
+                            "offset": 1816
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "\n"
+                },
+                {
+                    "type": "element",
+                    "tagName": "p",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "text",
+                            "value": "توضیح هر کلاس در فصل ۳ بخشی دارد که پیشنهادهایی برای ساخت سریع یک شخصیت از آن کلاس ارائه می‌دهد، از جمله نحوه اختصاص بالاترین ",
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 3,
+                                    "offset": 1820
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 129,
+                                    "offset": 1946
+                                }
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "tagName": "em",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "امتیازات توانایی",
+                                    "position": {
+                                        "start": {
+                                            "line": 14,
+                                            "column": 130,
+                                            "offset": 1947
+                                        },
+                                        "end": {
+                                            "line": 14,
+                                            "column": 146,
+                                            "offset": 1963
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 129,
+                                    "offset": 1946
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 147,
+                                    "offset": 1964
+                                }
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "value": "، ",
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 147,
+                                    "offset": 1964
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 149,
+                                    "offset": 1966
+                                }
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "tagName": "em",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-term"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "پیشینه",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 27,
+                                                    "offset": 26
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 33,
+                                                    "offset": 32
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "type": "element",
+                                            "tagName": "span",
+                                            "properties": {
+                                                "className": [
+                                                    "jargon-info"
+                                                ]
+                                            },
+                                            "children": [
+                                                {
+                                                    "type": "text",
+                                                    "value": "background",
+                                                    "position": {
+                                                        "start": {
+                                                            "line": 1,
+                                                            "column": 59,
+                                                            "offset": 58
+                                                        },
+                                                        "end": {
+                                                            "line": 1,
+                                                            "column": 69,
+                                                            "offset": 68
+                                                        }
+                                                    }
+                                                }
+                                            ],
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 33,
+                                                    "offset": 32
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 76,
+                                                    "offset": 75
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 1,
+                                            "offset": 0
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 83,
+                                            "offset": 82
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 149,
+                                    "offset": 1966
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 157,
+                                    "offset": 1974
+                                }
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "value": " مناسب برای ",
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 157,
+                                    "offset": 1974
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 169,
+                                    "offset": 1986
+                                }
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "tagName": "em",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-term"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "کلاس",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 27,
+                                                    "offset": 26
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 31,
+                                                    "offset": 30
+                                                }
+                                            }
+                                        },
+                                        {
+                                            "type": "element",
+                                            "tagName": "span",
+                                            "properties": {
+                                                "className": [
+                                                    "jargon-info"
+                                                ]
+                                            },
+                                            "children": [
+                                                {
+                                                    "type": "text",
+                                                    "value": "class",
+                                                    "position": {
+                                                        "start": {
+                                                            "line": 1,
+                                                            "column": 57,
+                                                            "offset": 56
+                                                        },
+                                                        "end": {
+                                                            "line": 1,
+                                                            "column": 62,
+                                                            "offset": 61
+                                                        }
+                                                    }
+                                                }
+                                            ],
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 31,
+                                                    "offset": 30
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 69,
+                                                    "offset": 68
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 1,
+                                            "offset": 0
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 76,
+                                            "offset": 75
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 169,
+                                    "offset": 1986
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 175,
+                                    "offset": 1992
+                                }
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "value": " و ",
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 175,
+                                    "offset": 1992
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 178,
+                                    "offset": 1995
+                                }
+                            }
+                        },
+                        {
+                            "type": "element",
+                            "tagName": "em",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "طلسم‌های",
+                                    "position": {
+                                        "start": {
+                                            "line": 14,
+                                            "column": 179,
+                                            "offset": 1996
+                                        },
+                                        "end": {
+                                            "line": 14,
+                                            "column": 187,
+                                            "offset": 2004
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 178,
+                                    "offset": 1995
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 188,
+                                    "offset": 2005
+                                }
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "value": " اولیه.",
+                            "position": {
+                                "start": {
+                                    "line": 14,
+                                    "column": 188,
+                                    "offset": 2005
+                                },
+                                "end": {
+                                    "line": 14,
+                                    "column": 195,
+                                    "offset": 2012
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 14,
+                            "column": 3,
+                            "offset": 1820
+                        },
+                        "end": {
+                            "line": 14,
+                            "column": 195,
+                            "offset": 2012
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "\n"
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 13,
+                    "column": 1,
+                    "offset": 1799
+                },
+                "end": {
+                    "line": 14,
+                    "column": 195,
+                    "offset": 2012
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "h4",
+            "properties": {
+                "id": "ساختن-بروئنور"
+            },
+            "children": [
+                {
+                    "type": "text",
+                    "value": "ساختن بروئنور",
+                    "position": {
+                        "start": {
+                            "line": 16,
+                            "column": 6,
+                            "offset": 2021
+                        },
+                        "end": {
+                            "line": 16,
+                            "column": 19,
+                            "offset": 2034
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 16,
+                    "column": 1,
+                    "offset": 2016
+                },
+                "end": {
+                    "line": 16,
+                    "column": 19,
+                    "offset": 2034
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "element",
+            "tagName": "p",
+            "properties": {},
+            "children": [
+                {
+                    "type": "text",
+                    "value": "هر مرحله از خلق شخصیت شامل مثالی از آن مرحله است، با یک بازیکن به نام باب که شخصیت ",
+                    "position": {
+                        "start": {
+                            "line": 17,
+                            "column": 1,
+                            "offset": 2036
+                        },
+                        "end": {
+                            "line": 17,
+                            "column": 84,
+                            "offset": 2119
+                        }
+                    }
+                },
+                {
+                    "type": "element",
+                    "tagName": "em",
+                    "properties": {},
+                    "children": [
+                        {
+                            "type": "element",
+                            "tagName": "span",
+                            "properties": {
+                                "className": [
+                                    "jargon-term"
+                                ]
+                            },
+                            "children": [
+                                {
+                                    "type": "text",
+                                    "value": "دورف",
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 27,
+                                            "offset": 26
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        }
+                                    }
+                                },
+                                {
+                                    "type": "element",
+                                    "tagName": "span",
+                                    "properties": {
+                                        "className": [
+                                            "jargon-info"
+                                        ]
+                                    },
+                                    "children": [
+                                        {
+                                            "type": "text",
+                                            "value": "dwarf",
+                                            "position": {
+                                                "start": {
+                                                    "line": 1,
+                                                    "column": 57,
+                                                    "offset": 56
+                                                },
+                                                "end": {
+                                                    "line": 1,
+                                                    "column": 62,
+                                                    "offset": 61
+                                                }
+                                            }
+                                        }
+                                    ],
+                                    "position": {
+                                        "start": {
+                                            "line": 1,
+                                            "column": 31,
+                                            "offset": 30
+                                        },
+                                        "end": {
+                                            "line": 1,
+                                            "column": 69,
+                                            "offset": 68
+                                        }
+                                    }
+                                }
+                            ],
+                            "position": {
+                                "start": {
+                                    "line": 1,
+                                    "column": 1,
+                                    "offset": 0
+                                },
+                                "end": {
+                                    "line": 1,
+                                    "column": 76,
+                                    "offset": 75
+                                }
+                            }
+                        }
+                    ],
+                    "position": {
+                        "start": {
+                            "line": 17,
+                            "column": 84,
+                            "offset": 2119
+                        },
+                        "end": {
+                            "line": 17,
+                            "column": 90,
+                            "offset": 2125
+                        }
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": " خود به نام بروئنور را می‌سازد.",
+                    "position": {
+                        "start": {
+                            "line": 17,
+                            "column": 90,
+                            "offset": 2125
+                        },
+                        "end": {
+                            "line": 17,
+                            "column": 121,
+                            "offset": 2156
+                        }
+                    }
+                }
+            ],
+            "position": {
+                "start": {
+                    "line": 17,
+                    "column": 1,
+                    "offset": 2036
+                },
+                "end": {
+                    "line": 17,
+                    "column": 121,
+                    "offset": 2156
+                }
+            }
+        },
+        {
+            "type": "text",
+            "value": "\n"
+        },
+        {
+            "type": "mdxjsEsm",
+            "value": "",
+            "data": {
+                "estree": {
+                    "type": "Program",
+                    "body": [
+                        {
+                            "type": "ExportNamedDeclaration",
+                            "declaration": {
+                                "type": "VariableDeclaration",
+                                "declarations": [
+                                    {
+                                        "type": "VariableDeclarator",
+                                        "id": {
+                                            "type": "Identifier",
+                                            "name": "toc"
+                                        },
+                                        "init": {
+                                            "type": "ArrayExpression",
+                                            "elements": [
+                                                {
+                                                    "type": "ObjectExpression",
+                                                    "properties": [
+                                                        {
+                                                            "type": "Property",
+                                                            "method": false,
+                                                            "shorthand": false,
+                                                            "computed": false,
+                                                            "kind": "init",
+                                                            "key": {
+                                                                "type": "Literal",
+                                                                "value": "value"
+                                                            },
+                                                            "value": {
+                                                                "type": "Literal",
+                                                                "value": "ساخت سریع"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "Property",
+                                                            "method": false,
+                                                            "shorthand": false,
+                                                            "computed": false,
+                                                            "kind": "init",
+                                                            "key": {
+                                                                "type": "Literal",
+                                                                "value": "id"
+                                                            },
+                                                            "value": {
+                                                                "type": "Literal",
+                                                                "value": "ساخت-سریع"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "Property",
+                                                            "method": false,
+                                                            "shorthand": false,
+                                                            "computed": false,
+                                                            "kind": "init",
+                                                            "key": {
+                                                                "type": "Literal",
+                                                                "value": "level"
+                                                            },
+                                                            "value": {
+                                                                "type": "Literal",
+                                                                "value": 3
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "ObjectExpression",
+                                                    "properties": [
+                                                        {
+                                                            "type": "Property",
+                                                            "method": false,
+                                                            "shorthand": false,
+                                                            "computed": false,
+                                                            "kind": "init",
+                                                            "key": {
+                                                                "type": "Literal",
+                                                                "value": "value"
+                                                            },
+                                                            "value": {
+                                                                "type": "Literal",
+                                                                "value": "ساختن بروئنور"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "Property",
+                                                            "method": false,
+                                                            "shorthand": false,
+                                                            "computed": false,
+                                                            "kind": "init",
+                                                            "key": {
+                                                                "type": "Literal",
+                                                                "value": "id"
+                                                            },
+                                                            "value": {
+                                                                "type": "Literal",
+                                                                "value": "ساختن-بروئنور"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "Property",
+                                                            "method": false,
+                                                            "shorthand": false,
+                                                            "computed": false,
+                                                            "kind": "init",
+                                                            "key": {
+                                                                "type": "Literal",
+                                                                "value": "level"
+                                                            },
+                                                            "value": {
+                                                                "type": "Literal",
+                                                                "value": 4
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "kind": "const"
+                            },
+                            "specifiers": [],
+                            "source": null
+                        }
+                    ],
+                    "sourceType": "module"
+                }
+            }
+        }
+    ],
+    "position": {
+        "start": {
+            "line": 1,
+            "column": 1,
+            "offset": 0
+        },
+        "end": {
+            "line": 17,
+            "column": 121,
+            "offset": 2156
+        }
+    }
+}

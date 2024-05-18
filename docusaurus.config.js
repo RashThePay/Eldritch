@@ -5,7 +5,8 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes, themes } from 'prism-react-renderer';
-import dict from './src/plugins/dict.js';
+import dict from './src/plugins/Dict/index.js'
+
 
 const config = {
   title: 'الدریچ',

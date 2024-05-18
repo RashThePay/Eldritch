@@ -71,15 +71,16 @@ export default function App() {
     setHits(hits);
   }
   async function navigate(e) {
-    if ((e.key === 'ArrowDown')) {
+    if ((e.key == 'ArrowDown')) {
       e.preventDefault();
       if (focus < hits.length) setFocus(focus + 1);
       if (focus <= (hits.length - 1)) e.target.closest('.searchbox').getElementsByTagName('li')[focus].getElementsByTagName('a')[0].focus()
-    } else if ((e.key === 'ArrowUp')) {
+    } else if ((e.key == 'ArrowUp')) {
       e.preventDefault();
       if (focus > 0) setFocus(focus - 1);
       if (focus <= (hits.length - 1)) e.target.closest('.searchbox').getElementsByTagName('li')[focus].getElementsByTagName('a')[0].focus()
     }
+  return false;
 
   }
   return (

@@ -1,5 +1,5 @@
 import lingoe from 'lingoe';
-import dictionary from './dictionary.json'
+import {dictionary} from './dictionary.js'
 
 export default function findMatch(target) {
     if (!target) return false;
@@ -17,13 +17,13 @@ export default function findMatch(target) {
         }
 
     }
-    if ((match === '') && target.split(' ').length) {
-        max = 10;
+    if ((match == '') && target.split(' ').length) {
+        max = 1;
         for (const key of Object.keys(dictionary)) {
             let total = 0;
             for (const word of target.split(' ')) {
                 if (key.split(' ').length) {
-                    let mw = 4;
+                    let mw = 2;
                     for (const k of key.split(' ')) {
                         let d = Leven(word, k);
                         if (d < mw) {
@@ -41,5 +41,7 @@ export default function findMatch(target) {
             }
         }
     }
-    return match;
+    if (match == '') {
+        return false;
+    } else return dictionary[match];
 }
